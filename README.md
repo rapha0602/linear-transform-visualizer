@@ -19,3 +19,9 @@ npm run dev
 - Mostrar autovalores/autovetores (quando existirem)
 - Projeção em uma base escolhida
 - Transformações 3D (matriz 3×3) com WebGL
+
+https://rapha0602.github.io/linear-transform-visualizer/
+https://rapha0602.github.io/linear-transform-visualizer/
+https://rapha0602.github.io/linear-transform-visualizer/
+
+Este projeto tem como objetivo visualizar de forma interativa os efeitos geométricos de transformações lineares no plano, explorando conceitos de GAAL e FTC como determinante, orientação, composição e interpolação linear de matrizes
